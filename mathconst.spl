@@ -1,0 +1,10 @@
+const TAU = 6.28318
+const SILVRAT = 2.41421
+const SQROOT2 = 1.41421
+const APERY = 1.2020569031
+const SQROOT5 = 2.2360679775
+const SQROOT3 = 1.7320508
+const SQROOT7 = 2,64575131106
+
+# phisic const
+сonst g =  9.78049
